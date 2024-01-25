@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 247.64 210.96">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #27aae1;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        fill: #231f20;
+      }
+
+      .cls-4 {
+        fill: #eeea59;
+      }
+    </style>
+  </defs>
+  <g id="banana">
+    <path class="cls-4" d="M103.7,84.64s12.35,7.39,20.18,31.86c7.34,22.94,31.41,26.38,31.41,26.38,0,0,8.03,9.4-2.75,14.22s-64.43-6.19-56.18-66.27c0,0,2.98-4.36-6.88-10.32,0,0,2.29-5.27,4.36-5.73s8.48,5.04,9.86,9.86Z"/>
+    <path class="cls-1" d="M97.03,121.67c2.58,8.69,6.94,15.55,12.13,20.86,2.69-2.27,4.43-5.81,4.43-9.8,0-6.85-5.11-12.41-11.41-12.41-1.85,0-3.6.49-5.15,1.34Z"/>
+    <path class="cls-2" d="M105.3,95.19s4.59,28.7,20.06,40.04"/>
+    <path class="cls-2" d="M144.28,147.92s-11.69-1.15-16.28-6.19"/>
+    <ellipse class="cls-3" cx="153.34" cy="148.73" rx="1.72" ry="2.41"/>
+  </g>
+</svg>
