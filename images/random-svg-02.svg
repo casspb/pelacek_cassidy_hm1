@@ -1,36 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 247.64 210.96">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #27aae1;
-        stroke-width: 0px;
-      }
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="banana" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 71 85.4" style="enable-background:new 0 0 71 85.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EEEA59;stroke:#231F20;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:#27AAE1;}
+	.st2{fill:none;stroke:#231F20;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:#231F20;stroke:#231F20;stroke-width:2;stroke-miterlimit:10;}
 
-      .cls-2 {
-        fill: none;
-      }
+  #banana{
+     transition: all 0.5s ease;
+  }
 
-      .cls-2, .cls-3, .cls-4 {
-        stroke: #231f20;
-        stroke-miterlimit: 10;
-        stroke-width: 2px;
-      }
+  #banana:hover{
+    transform: rotate(180deg);
+  }
+</style>
+<defs>
+	<script>const vectorGraphic = document.querySelector(&apos;#banana&apos;);
 
-      .cls-3 {
-        fill: #231f20;
-      }
+function logThisId(){
+    console.log(this);
+    console.log(&apos;I am a banana&apos;);
+}
 
-      .cls-4 {
-        fill: #eeea59;
-      }
-    </style>
-  </defs>
-  <g id="banana">
-    <path class="cls-4" d="M103.7,84.64s12.35,7.39,20.18,31.86c7.34,22.94,31.41,26.38,31.41,26.38,0,0,8.03,9.4-2.75,14.22s-64.43-6.19-56.18-66.27c0,0,2.98-4.36-6.88-10.32,0,0,2.29-5.27,4.36-5.73s8.48,5.04,9.86,9.86Z"/>
-    <path class="cls-1" d="M97.03,121.67c2.58,8.69,6.94,15.55,12.13,20.86,2.69-2.27,4.43-5.81,4.43-9.8,0-6.85-5.11-12.41-11.41-12.41-1.85,0-3.6.49-5.15,1.34Z"/>
-    <path class="cls-2" d="M105.3,95.19s4.59,28.7,20.06,40.04"/>
-    <path class="cls-2" d="M144.28,147.92s-11.69-1.15-16.28-6.19"/>
-    <ellipse class="cls-3" cx="153.34" cy="148.73" rx="1.72" ry="2.41"/>
-  </g>
+vectorGraphic.addEventListener(&apos;click&apos;, logThisId);
+		</script>
+</defs>
+<g id="banana">
+	<path class="st0" d="M15.5,10.9c0,0,12.3,7.4,20.2,31.9C43,65.7,67.1,69.1,67.1,69.1s8,9.4-2.8,14.2S-0.1,77.2,8.1,17.1
+		c0,0,3-4.4-6.9-10.3c0,0,2.3-5.3,4.4-5.7S14.1,6.1,15.5,10.9z"/>
+	<path class="st1" d="M8.8,47.9c2.6,8.7,6.9,15.6,12.1,20.9c2.7-2.3,4.4-5.8,4.4-9.8c0-6.8-5.1-12.4-11.4-12.4
+		C12.1,46.6,10.4,47.1,8.8,47.9L8.8,47.9z"/>
+	<path class="st2" d="M17.1,21.4c0,0,4.6,28.7,20.1,40"/>
+	<path class="st2" d="M56.1,74.2c0,0-11.7-1.1-16.3-6.2"/>
+	<ellipse class="st3" cx="65.1" cy="75" rx="1.7" ry="2.4"/>
+</g>
 </svg>
